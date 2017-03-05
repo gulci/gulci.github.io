@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/gulci
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mariomuniz.com
+  * I am gulci (https://keybase.io/gulci) on keybase.
+  * I have a public key ASDhJGcWo3jG0LjGeLJePhGl953G4G3uNZbrPpJZFxh3_Qo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e1246716a378c6d0b8c678b25e3e11a5f79dc6e06dee3596eb3e9259171877fd0a",
+            "host": "keybase.io",
+            "kid": "0120e1246716a378c6d0b8c678b25e3e11a5f79dc6e06dee3596eb3e9259171877fd0a",
+            "uid": "6c5e5a02d34589803595052e09f63f19",
+            "username": "gulci"
+        },
+        "service": {
+            "hostname": "mariomuniz.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1487917731,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1487917727,
+        "hash": "0aafa9010535ef81d06dff404eba0fab3ea5170178a60eddbc39accd0c31fb324125c8f4a5bc32a9578906246d690743fc95a70ea2767b8e80fc720acaab2eb7",
+        "seqno": 919518
+    },
+    "prev": "6a35aa3248dc6b81a2d14f1bb643b25fc8fb5d1779b0c25d1a3a9ac6a205985d",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4SRnFqN4xtC4xniyXj4RpfedxuBt7jWW6z6SWRcYd/0Kp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTEyNDY3MTZhMzc4YzZkMGI4YzY3OGIyNWUzZTExYTVmNzlkYzZlMDZkZWUzNTk2ZWIzZTkyNTkxNzE4NzdmZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTEyNDY3MTZhMzc4YzZkMGI4YzY3OGIyNWUzZTExYTVmNzlkYzZlMDZkZWUzNTk2ZWIzZTkyNTkxNzE4NzdmZDBhIiwidWlkIjoiNmM1ZTVhMDJkMzQ1ODk4MDM1OTUwNTJlMDlmNjNmMTkiLCJ1c2VybmFtZSI6Imd1bGNpIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJtYXJpb211bml6LmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg3OTE3NzMxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODc5MTc3MjcsImhhc2giOiIwYWFmYTkwMTA1MzVlZjgxZDA2ZGZmNDA0ZWJhMGZhYjNlYTUxNzAxNzhhNjBlZGRiYzM5YWNjZDBjMzFmYjMyNDEyNWM4ZjRhNWJjMzJhOTU3ODkwNjI0NmQ2OTA3NDNmYzk1YTcwZWEyNzY3YjhlODBmYzcyMGFjYWFiMmViNyIsInNlcW5vIjo5MTk1MTh9LCJwcmV2IjoiNmEzNWFhMzI0OGRjNmI4MWEyZDE0ZjFiYjY0M2IyNWZjOGZiNWQxNzc5YjBjMjVkMWEzYTlhYzZhMjA1OTg1ZCIsInNlcW5vIjoxNCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECqXlCVezX5qUtIhvkvk4CIJlBci/bY4vNCkly7hURiyVBgZGr+UfJFZhfkSgBDDg2eEQsnLImDP+Uav12pqR4EqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgoQc3fEFzXlMvi9bqDFq4aOXBWpBNvKGjYzgCvwnA+AejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gulci
+
+==================================================================

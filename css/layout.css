@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  padding: 0; }
+
+.container {
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; }
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.fullscreen {
+  min-height: 100%; }

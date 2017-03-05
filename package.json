@@ -1,0 +1,20 @@
+{
+  "name": "Personal Site",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gulci",
+  "bugs": {
+    "url": "https://github.com/Gulci/gulci.github.io/issues"
+  },
+  "homepage": "https://github.com/Gulci/gulci.github.io#readme"
+}
