@@ -1,0 +1,9 @@
+
+/* items that start as hidden and are shown later */
+#projects-table-body {
+  display: none;
+}
+
+#project-requests {
+  display: none;
+}
