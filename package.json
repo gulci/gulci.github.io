@@ -1,20 +1,29 @@
 {
-  "name": "Personal Site",
+  "name": "mariomuniz.com",
   "version": "1.0.0",
-  "description": "personal website",
-  "main": "index.html",
-  "dependencies": {},
-  "devDependencies": {
-    "browser-sync": "^2.18.2",
-    "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0"
-  },
+  "description": "Personal site for Mario Muñiz",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "gulci",
-  "bugs": {
-    "url": "https://github.com/Gulci/gulci.github.io/issues"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulci/gulci.github.io.git"
   },
-  "homepage": "https://github.com/Gulci/gulci.github.io#readme"
+  "author": "Mario Muñiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gulci/gulci.github.io/issues"
+  },
+  "homepage": "https://github.com/gulci/gulci.github.io",
+  "devDependencies": {
+    "@parcel/packager-raw-url": "^2.6.0",
+    "@parcel/transformer-webmanifest": "^2.6.0",
+    "parcel": "^2.6.0",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24"
+  }
 }
